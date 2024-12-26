@@ -15,3 +15,8 @@ This process enables the network to learn patterns and make predictions for new,
 ## Neural Networks
 
 At the core of deep learning are neural networks, which are like computer systems modeled after how the brain works. They are made up of layers of tiny units called neurons that are connected to each other. These neurons work together to process data, learn patterns, and make predictions.
+
+<div align="center">
+  <img src="basic_nn.webp" width="500px" alt="basic_nn.webp">
+</div>
+

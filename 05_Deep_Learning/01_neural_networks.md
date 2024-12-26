@@ -25,13 +25,13 @@ At the core of deep learning are neural networks, which are like computer system
 
 ## Linear Regression Vs Neural Networks
 
-Let's take the problem of housing price prediction. Let's see how these three different models tackle this problem in their own way. 
+Let's take the problem of housing price prediction. Let's see how these two different models tackle this problem in their own way. 
 
 <div align="center">
   <img src="./Assets/housingPrice.png" width="500px" alt="housingPrice.png">
 </div>
 
-### Linear Regression Vs Neural Networks
+### Linear Regression 
 
 - Objective: Predict a continuous hosing price value based on a linear relationship with input features (e.g., square footage, number of bedrooms).   
 - How it works: Finds the "best fit" straight line through the data points. This line represents the linear relationship between the features and the price.

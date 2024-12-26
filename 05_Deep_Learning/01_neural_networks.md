@@ -2,7 +2,10 @@
 
 In deep learning, we essentially design a function (a deep neural network) that takes an input (e.g., an image) and produces an output (e.g., a label like "cat" or "dog").
 
-![nnAsAFn](./Assets/nnAsAFn.gif)
+<div align="center">
+  <img src="./Assets/nnAsAFn.gif" width="500px" alt="nnAsAFn">
+</div>
+
 1. Initially, the function (network) produces incorrect outputs because the parameters (weights) are not yet trained, they are random.
 2. Training involves feeding the function labeled data (input-output pairs) and adjusting the weights using algorithms like gradient descent to minimize the error between predicted and actual outputs.
 3. The goal is to train the function to generalize well, meaning it should also provide accurate outputs on unseen (test) data that was not used during training.
